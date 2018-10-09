@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/kyohei/Documents/gang_of_four/Itarator/src/main/scala/MyTeacher.scala:17:26: StudentList does not take parameters[0m
-[0m[[0m[31merror[0m] [0m[0m      println(studentList(i).getName())[0m
-[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kyohei/Documents/gang_of_four/Itarator/src/main/scala/MyStudentList.scala:2:16: value students overrides nothing[0m
+[0m[[0m[31merror[0m] [0m[0m  override val students: Array[Student] = new Array[Student](studentCount)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
