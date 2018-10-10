@@ -1,4 +1,5 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/kyohei/Documents/gang_of_four/Itarator/src/main/scala/MyStudentList.scala:2:16: value students overrides nothing[0m
-[0m[[0m[31merror[0m] [0m[0m  override val students: Array[Student] = new Array[Student](studentCount)[0m
-[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/kyohei/Documents/gang_of_four/Itarator/src/main/scala/MyStudentList.scala:1:48: not enough arguments for constructor StudentList: (studentCount: Int)StudentList.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter studentCount.[0m
+[0m[[0m[31merror[0m] [0m[0mclass MyStudentList(studentCount: Int) extends StudentList with Aggregate{[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

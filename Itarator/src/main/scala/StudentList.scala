@@ -1,4 +1,4 @@
-class StudentList(studentCount: Int = 0) {
+class StudentList(studentCount: Int) {
   private var last: Int = 0
   private val students: Array[Student] = new Array[Student](studentCount)
 

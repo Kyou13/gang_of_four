@@ -1,4 +1,4 @@
 trait Iterator{
   def hasNext(): Boolean
-  def next(): AnyRef
+  def next(): Student // TODO
 }
